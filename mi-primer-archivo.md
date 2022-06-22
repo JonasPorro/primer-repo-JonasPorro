@@ -11,8 +11,8 @@ Personajes de la ciencia:
 10. Nicolas Copérnico.
 
 Lenguajes de Programación
-1. C
-2. C#
+1. C#
+2. C
 3. C++
 4. Python
 5. Java
